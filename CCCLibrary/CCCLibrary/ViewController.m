@@ -7,6 +7,9 @@
 //
 
 #import "ViewController.h"
+#import "CCCWXShareView.h"
+#import "CCCTencentASRTools.h"
+#import "CCCTheme.h"
 
 @interface ViewController ()
 
@@ -17,6 +20,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    [CCCTheme setTheme:0];
+    self.view.backgroundColor = [CCCTheme submitBtnBgColor];
+    
 }
 
 
