@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseProperty</key>
+	<dict>
+		<key>baseFont</key>
+		<string>15</string>
+		<key>baseBigFont</key>
+		<string>18</string>
+		<key>baseSmallFont</key>
+		<string>14</string>
+		<key>baseTextColor</key>
+		<string>0,0,0,1</string>
+		<key>inputTextColor</key>
+		<string>51,51,51,1</string>
+		<key>inputHolderColor</key>
+		<string>51,51,51,1</string>
+		<key>submitBtnBgColor</key>
+		<string>228,196,142,1</string>
+		<key>submitBtnTextColor</key>
+		<string>0,0,0,1</string>
+		<key>navBarTitleColor</key>
+		<string>51,51,51,1</string>
+		<key>navBarBgColor</key>
+		<string>0,0,0,1</string>
+	</dict>
+	<key>HomeProperty</key>
+	<dict>
+		<key>leftLogoImage</key>
+		<string>ebankH</string>
+		<key>rightLogoImage</key>
+		<string>头像</string>
+		<key>searchImage</key>
+		<string>searchicon</string>
+		<key>accountOverviewimage</key>
+		<string>rectangle</string>
+		<key>accountOverviewTxtColor</key>
+		<string>0,0,0,1</string>
+		<key>accountMoreColor</key>
+		<string>0,0,0,1</string>
+		<key>accountMoreImage</key>
+		<string>arrowicon</string>
+		<key>accountBalanceImage</key>
+		<string>moneybagicon</string>
+		<key>accountBalanceTxtColor</key>
+		<string>0,0,0,1</string>
+		<key>accountNumberColor</key>
+		<string>0,0,0,0.5</string>
+		<key>cnyTitleColor</key>
+		<string>0,0,0,1</string>
+		<key>cnyMoneyColor</key>
+		<string>237,205,118,1</string>
+		<key>usdTitleColor</key>
+		<string>0,0,0,1</string>
+		<key>usdMoneyColor</key>
+		<string>237,205,118,1</string>
+		<key>splitLineColor</key>
+		<string>0,0,0,0.5</string>
+		<key>switchSelectTxtColor</key>
+		<string>0,0,0,1</string>
+		<key>switchUnSelectTxColor</key>
+		<string>84,92,111,0.6</string>
+		<key>switchSelectBgColor</key>
+		<string>84,92,111,0.6</string>
+		<key>switchUnSelectBgColor</key>
+		<string>0,0,0,1</string>
+		<key>switchBorderColor</key>
+		<string>84,92,111,0.6</string>
+		<key>switchGradientDarkColor</key>
+		<string>84,92,111,1</string>
+		<key>switchGradientLightColor</key>
+		<string>84,92,111,1</string>
+		<key>indicatorSelectImage</key>
+		<string>page_dot_cur</string>
+		<key>indicatorUnSelectImage</key>
+		<string>page_dot</string>
+	</dict>
+	<key>MyProperty</key>
+	<dict>
+		<key>titleColor</key>
+		<string></string>
+		<key>New item - 7</key>
+		<string></string>
+		<key>New item - 6</key>
+		<string></string>
+		<key>New item - 5</key>
+		<string></string>
+		<key>New item - 4</key>
+		<string></string>
+		<key>New item - 3</key>
+		<string></string>
+		<key>New item</key>
+		<string></string>
+	</dict>
+	<key>PageLoginPwd</key>
+	<dict/>
+	<key>PageLoginTouch</key>
+	<dict/>
+	<key>PageLoginFace</key>
+	<dict/>
+	<key>PageLoginGesture</key>
+	<dict/>
+</dict>
+</plist>
